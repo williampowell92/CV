@@ -55,11 +55,11 @@ A highly selective, 16 week, intensive coding bootcamp. The course is focuses on
 
 Throughout the course I have leapt at every opportunity to learn something new, covering technologies such as:
 
-Languages: Ruby, Javascript (including React), Java, HTML/CSS
-Web Frameworks: Sinatra, Node.js/Express, Spring Boot
-Databases: PostgreSQL
-Testing Suites: Rspec, Capybara, Jasmine, Jest, Cypress, Nightwatch, JUnit
-CI/CD tools: Travis CI, Docker, Heroku
+- Languages: Ruby, Javascript (including React), Java, HTML/CSS
+- Web Frameworks: Sinatra, Node.js/Express, Spring Boot
+- Databases: PostgreSQL
+- Testing Suites: Rspec, Capybara, Jasmine, Jest, Cypress, Nightwatch, JUnit
+- CI/CD tools: Travis CI, Docker, Heroku
 
 #### Newcastle University (2011 to 2015)
 
