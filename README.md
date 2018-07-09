@@ -12,6 +12,7 @@ I now want to apply my analytical mind, and problem solving skills, to a brand n
 
 | Title | Description | Development Timeframe | Technologies Used | Development and Deployment Technologies |
 |--|--|--|--|--|
+| [Hyper Cat](https://github.com/williampowell92/hyper_cat) | A 2D, side-scrolling, platform game where you play Hyper Cat, a hungry cat on the hunt for a mouse! | 2 weeks | Javascript, Express | Jasmine, Travis, Heroku |
 | [Bank Tech Test](https://github.com/williampowell92/bank_tech_test) | A CLI application managing bank accounts | 2 Days | Javascript, Node.js | Jasmine |
 | [Gilded Rose](https://github.com/williampowell92/gilded_rose) | An application for managing a mystical shops inventory | 2 Days | Java, Maven | JUnit 4 |
 | [Makers BnB](https://github.com/williampowell92/makers_bnb) | An application for renting and letting rooms | 1 Week | Javascript, Node.js, Express, Sequelize, PostgreSQL, pug, CSS | Jasmine, Cypress |
